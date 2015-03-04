@@ -1,0 +1,32 @@
+Andreas is an Assistant Research Scientist at the NYU Center for Data Science,
+building a group to work on open source software for data science.  Previously
+he worked as a Machine Learning Scientist at Amazon, working on computer vision
+and forecasting problems. He is one of the core developers of the scikit-learn
+machine learning library, and maintained it for several years.
+
+His mission is to create open tools to lower the barrier of entry for machine
+learning applications, promote reproducible science and democratize the access
+to high-quality machine learning algorithms.
+
+==============
+
+Andreas Mueller finished his PhD thesis on structured prediction for image
+segmentation at the Institute for Computer Science at the University of Bonn in
+2013.
+After working as a machine learning scientist at the Amazon Development Center
+Germany in Berlin for a year, he joined the Center for Data Science at the New
+York University in the end of 2014. In his position as assistant research
+engineer at the Center for Data Science, he works on open source tools for
+machine learning and data science.
+He has been one of the core contributors and maintainer of scikit-learn, a
+machine learning toolkit widely used in industry and academia, for several
+years, and authored and contributed to a number of open source projects related
+to machine learning.
+
+=====
+Andreas Mueller received his PhD in machine learning from the University of Bonn. After working as a machine learning researcher on computer vision applications at Amazon for a year, he recently
+joined the Center for Data Science at the New York University.
+In the last four years, he has been maintainer and one of the core contributor of scikit-learn, a machine learning toolkit widely used in industry and academia, and author and contributor to several other
+widely used machine learning packages.
+His mission is to create open tools to lower the barrier of entry for machine learning applications, promote
+reproducible science and democratize the access to high-quality machine learning algorithms.
