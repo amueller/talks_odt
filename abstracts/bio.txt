@@ -26,7 +26,7 @@ to machine learning.
 =====
 Andreas Mueller received his PhD in machine learning from the University of Bonn. After working as a machine learning researcher on computer vision applications at Amazon for a year, he recently
 joined the Center for Data Science at the New York University.
-In the last four years, he has been maintainer and one of the core contributor of scikit-learn, a machine learning toolkit widely used in industry and academia, and author and contributor to several other
+In the last four years, he has been release manager and one of the core contributor of scikit-learn, a machine learning toolkit widely used in industry and academia, and author and contributor to several other
 widely used machine learning packages.
 His mission is to create open tools to lower the barrier of entry for machine learning applications, promote
 reproducible science and democratize the access to high-quality machine learning algorithms.
