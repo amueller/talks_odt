@@ -1,8 +1,8 @@
-Andreas is an Assistant Research Scientist at the NYU Center for Data Science,
-building a group to work on open source software for data science.  Previously
-he worked as a Machine Learning Scientist at Amazon, working on computer vision
+Andreas is an Research Engineer at the NYU Center for Data Science,
+building open source software for data science. Previously
+he worked as a Machine Learning Scientist at Amazon, developing solutions for computer vision
 and forecasting problems. He is one of the core developers of the scikit-learn
-machine learning library, and has maintained it for several years.
+machine learning library, and has co-maintained it for several years.
 
 His mission is to create open tools to lower the barrier of entry for machine
 learning applications, promote reproducible science and democratize the access
