@@ -1,3 +1,19 @@
+
+
+Andreas Müller is a lecturer at the Data Science Institute at Columbia
+University and author of the O'Reilly book "Introduction to machine learning
+with Python", describing a practical approach to machine learning with python
+and scikit-learn. He is one of the core developers of the scikit-learn machine
+learning library, and has been co-maintaining it for several years. He is also
+a Software Carpentry instructor. In the past, he worked at the NYU Center for
+Data Science on open source and open science, and as Machine Learning Scientist
+at Amazon.
+
+His mission is to create open tools to lower the barrier of entry for machine
+learning applications, promote reproducible science and democratize the access
+to high-quality machine learning algorithms.
+
+==============
 Andreas is an Research Engineer at the NYU Center for Data Science,
 building open source software for data science. Previously
 he worked as a Machine Learning Scientist at Amazon, developing solutions for computer vision
