@@ -6,3 +6,14 @@ The dabl library is a first step in this direction. It provides automatic visual
 This talk will introduce the dabl library and show how to use it to quickly create supervised models and identify modeling and data quality issues."
 
 
+
+long abstract:
+
+In many real-world applications, data quality and curation and domain knowledge play a much larger role in building successful models than coming up with complex processing techniques and tweaking hyper-parameters.
+Therefore, a machine learning toolbox should enable users to understand both data and model, and not burden the practitioner with picking preprocessing steps and hyperparameters.
+The dabl library is a first step in this direction. It provides automatic visualization routines and model inspection capabilities while automating away model selection.
+
+dabl contains plot types not available in standard python libraries so far, as well as novel algorithms for picking interesting visualizations.
+Heuristics are used to select appropriate preprocessing for machine learning, while state-of-the-art portfolio selection algorithms are used for efficient model and hyperparameter search.
+
+dabl also provides easy access to model evaluation and model inspection tools provided by scikit-learn.
