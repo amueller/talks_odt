@@ -1,7 +1,16 @@
+Andreas Müller recently joined Microsoft, after working as a research scientist at the Data Science Institute at Columbia
+University.He is one of the core developers of the scikit-learn machine
+learning library, and a member of the scikit-learn tenchical committee, as well as the author of the book "Introduction to machine learning
+with Python". 
+His work focuses on paractical aspects of machine learning and the development of user-centric machine learning software.
+
+
+---
+
 Andreas Müller is a research scientist at the Data Science Institute at Columbia
 University and author of the O'Reilly book "Introduction to machine learning
 with Python". He is one of the core developers of the scikit-learn machine
-learning library, and a member of the scikit-learn techical committee. 
+learning library, and a member of the scikit-learn tenchical committee. 
 His work focuses on paractical aspects of machine learning and the development of user-centric machine learning software.
 
 ---

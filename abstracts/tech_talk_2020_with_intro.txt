@@ -1,0 +1,7 @@
+The future of accessible Machine Learning in Python
+The use of Python in data science is an unquantified success story, thanks to the availability of tools like Jupyter, Pandas, scikit-learn and many more.
+However, many of the existing tools for visualization and machine learning are not well-integrated and don't provide a coherent user experience.
+This talk will consist of two parts; the first part reviews some of the most prominent tools in the PyData Ecosystem, in particular scikit-learn for machine learning, and their limitations.
+The second part concerns emerging solutions, including dabl, a new library for rapid data exploration and machine learning prototyping based on state-of-the-art automatic machine learning.
+Dabl focuses on a human-in-the-loop approach for quickly exploring new datasets and building and evaluating common machine learning approaches with a minimum of boilerplate code.
+
