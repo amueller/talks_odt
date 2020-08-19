@@ -1,8 +1,7 @@
-Andreas Müller recently joined Microsoft, after working as a research scientist at the Data Science Institute at Columbia
-University.He is one of the core developers of the scikit-learn machine
-learning library, and a member of the scikit-learn tenchical committee, as well as the author of the book "Introduction to machine learning
-with Python". 
-His work focuses on paractical aspects of machine learning and the development of user-centric machine learning software.
+Andreas Müller is a Principal Research SDE at Microsoft, where he works on the interface of the Data Science ecosystem and cloud infrastructure.
+He previously held positions as Associate Research Scientist at the Columbia Data Science Institute and as a Research Engineer at the NYU Center for Data Science.
+He is one of the core developers of the scikit-learn machine learning library, a member of the scikit-learn technical committee, and the author of the book "Introduction to machine learning with Python". 
+His work focuses on practical aspects of machine learning and the development of user-centric machine learning software.
 
 
 ---
