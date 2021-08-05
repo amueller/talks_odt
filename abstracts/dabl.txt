@@ -1,3 +1,15 @@
+
+Title Taking the edge of data science with dabl
+abstract: In many real-world applications, data quality and curation and domain knowledge play a much larger role in building successful models than coming up with complex processing techniques and tweaking hyper-parameters.
+
+Therefore, a data toolbox should enable users to understand both data and model, and not burden the practitioner with details of formatting plots, rote preprocessing steps and hyperparameters.
+
+The dabl library is a first step in this direction. It provides automatic visualization routines and model inspection capabilities while automating away model selection.
+This talk will introduce the dabl library and show how to use it to quickly create supervised models and identify modeling and data quality issues."
+
+
+
+
 Title is "dabl: automatic machind learning with a human in the loop".
 Abstract:
 In many real-world applications, data quality and curation and domain knowledge play a much larger role in building successful models than coming up with complex processing techniques and tweaking hyper-parameters.
